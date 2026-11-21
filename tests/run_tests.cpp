@@ -42,7 +42,7 @@ public:
     int run() {
         std::cout << "\n";
         std::cout << "╔═════════════════════════════════════════════════════════════╗\n";
-        std::cout << "║              TINY TRANSFORMER TEST RUNNER                   ║\n";
+        std::cout << "║                 TENSOR AUTOGRAD TEST RUNNER                  ║\n";
         std::cout << "╚═════════════════════════════════════════════════════════════╝\n";
         
         std::vector<TestResult> results;
